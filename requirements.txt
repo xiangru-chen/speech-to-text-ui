@@ -1,2 +1,8 @@
 streamlit
 openai
+subprocess
+re
+google.generativeai
+google.generativeai.types
+HarmCategory
+HarmBlockThreshold
